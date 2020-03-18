@@ -18,7 +18,7 @@ If you're interested in helping this project Financially or to see behind the sc
 
 This fork is an attempt to keep this addon going forward as the original author is no longer developing ManuelBastioniLAB
 
-# MB-Lab 1.7.7
+# MB-Lab 1.7.7 Blender 2.81.16 required for MB-Lab 1.7.7
 
 ## Added
 
